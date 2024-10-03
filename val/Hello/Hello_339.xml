@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Hello</folder>
+	<filename>Hello_339.jpg</filename>
+	<path>C:\Users\mahi2\OneDrive\Desktop\sign language\image_captured\val\Hello\Hello_339.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hello</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>158</xmin>
+			<ymin>139</ymin>
+			<xmax>439</xmax>
+			<ymax>424</ymax>
+		</bndbox>
+	</object>
+</annotation>

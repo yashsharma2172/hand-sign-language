@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Thanks</folder>
+	<filename>Thanks_228.jpg</filename>
+	<path>C:\Users\mahi2\OneDrive\Desktop\sign language\image_captured\train\Thanks\Thanks_228.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Thanks</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>155</xmin>
+			<ymin>157</ymin>
+			<xmax>505</xmax>
+			<ymax>400</ymax>
+		</bndbox>
+	</object>
+</annotation>

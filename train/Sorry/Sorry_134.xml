@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Sorry</folder>
+	<filename>Sorry_134.jpg</filename>
+	<path>C:\Users\mahi2\OneDrive\Desktop\sign language\image_captured\val\Sorry\Sorry_134.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Sorry</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>360</xmin>
+			<ymin>212</ymin>
+			<xmax>544</xmax>
+			<ymax>360</ymax>
+		</bndbox>
+	</object>
+</annotation>

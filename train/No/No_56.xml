@@ -1,0 +1,26 @@
+<annotation>
+	<folder>No</folder>
+	<filename>No_56.jpg</filename>
+	<path>C:\Users\mahi2\OneDrive\Desktop\sign language\image_captured\train\No\No_56.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>No</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>229</xmin>
+			<ymin>140</ymin>
+			<xmax>514</xmax>
+			<ymax>408</ymax>
+		</bndbox>
+	</object>
+</annotation>
